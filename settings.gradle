@@ -1,4 +1,4 @@
 rootProject.name = 'JavaTlsDemo'
 include 'clientHttp'
-include 'clientHttps'
+include 'clientHttpsGmSSL'
 
